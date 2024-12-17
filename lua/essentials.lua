@@ -30,7 +30,7 @@ option.mouse = "a"
 option.undofile = true
 option.undodir = vim.fn.expand('$HOME/.local/share/nvim/undo')
 option.exrc = true
-option.wrap = false
+option.wrap = true
 option.splitright = true
 option.clipboard:append("unnamedplus") 
 
